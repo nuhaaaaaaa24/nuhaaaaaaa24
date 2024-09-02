@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Nuha Rilwan<br>I am a software engineering undergraduate from Sri lanka<br>I am currently learning flutter and laravel
+My name is Nuha Rilwan<br>I am a software engineering undergraduate from Sri lanka<br>
 
 
 ## 🌐 Socials:
